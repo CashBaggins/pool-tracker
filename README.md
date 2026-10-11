@@ -55,3 +55,10 @@ Cloudflare Tunnel: public hostname `pool.cashbaggins.dev` → service `http://ap
   merges, the fall-2017 balls-left column swap, cutthroat finish-place recovery).
 - `data/raw/Pool vs Dad Breakdown Document 4.26.2018.pdf` — the 2018 report,
   served at `/api/report.pdf` for the Story page.
+
+## Shared maintainer references
+
+The private [CashBaggins handbook](https://github.com/CashBaggins/cashbaggins-dev/blob/main/docs/README.md) is the shared reference
+for computer and NAS locations, deployment conventions, account adoption and
+design guidance. Keep this project's specific build, deployment and recovery
+procedures in this repository; consult the handbook before changing shared paths.
